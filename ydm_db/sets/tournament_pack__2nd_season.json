@@ -8,12 +8,6 @@
   "distribution": "tournament_pack",
   "cards": [
     {
-      "id": 33508719,
-      "code": "TP2-001",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 28563545,
       "code": "TP2-002",
       "rarity": "Super Rare",

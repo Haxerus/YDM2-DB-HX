@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Spellcaster\u0027s Judgment",
+  "name": "Structure Deck: Spellcaster's Judgment",
   "code": "SD6",
   "type": "Structure Deck",
   "date": "18-01-2006",
@@ -139,12 +139,6 @@
       "image_index": 0
     },
     {
-      "id": 70828912,
-      "code": "SD6-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 72302403,
       "code": "SD6-021",
       "rarity": "Common",
@@ -153,12 +147,6 @@
     {
       "id": 83746708,
       "code": "SD6-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 19613556,
-      "code": "SD6-023",
       "rarity": "Common",
       "image_index": 0
     },

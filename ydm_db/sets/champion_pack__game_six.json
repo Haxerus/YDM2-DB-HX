@@ -56,12 +56,6 @@
       "image_index": 0
     },
     {
-      "id": 40044918,
-      "code": "CP06-009",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 80887952,
       "code": "CP06-010",
       "rarity": "Rare",
@@ -106,12 +100,6 @@
     {
       "id": 303660,
       "code": "CP06-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 60682203,
-      "code": "CP06-018",
       "rarity": "Common",
       "image_index": 0
     },

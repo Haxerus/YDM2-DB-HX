@@ -8,12 +8,6 @@
   "distribution": "booster_pack_old",
   "cards": [
     {
-      "id": 82301904,
-      "code": "IOC-000",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 42941100,
       "code": "IOC-001",
       "rarity": "Common",
@@ -572,12 +566,6 @@
       "image_index": 0
     },
     {
-      "id": 23557835,
-      "code": "IOC-094",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 69542930,
       "code": "IOC-095",
       "rarity": "Super Rare",
@@ -635,12 +623,6 @@
       "id": 21597117,
       "code": "IOC-104",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57585212,
-      "code": "IOC-105",
-      "rarity": "Short Print",
       "image_index": 0
     },
     {

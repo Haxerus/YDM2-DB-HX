@@ -1,5 +1,5 @@
 {
-  "name": "Pharaoh\u0027s Servant",
+  "name": "Pharaoh's Servant",
   "code": "PSV",
   "type": "Booster Pack (Series 1-3)",
   "date": "20-10-2002",
@@ -47,12 +47,6 @@
       "id": 1248895,
       "code": "PSV-006",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35316708,
-      "code": "PSV-007",
-      "rarity": "Short Print",
       "image_index": 0
     },
     {
@@ -230,12 +224,6 @@
       "image_index": 0
     },
     {
-      "id": 70828912,
-      "code": "PSV-037",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 16227556,
       "code": "PSV-038",
       "rarity": "Common",
@@ -380,12 +368,6 @@
       "image_index": 0
     },
     {
-      "id": 60682203,
-      "code": "PSV-062",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 97687912,
       "code": "PSV-063",
       "rarity": "Super Rare",
@@ -512,12 +494,6 @@
       "image_index": 0
     },
     {
-      "id": 63519819,
-      "code": "PSV-084",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 84620194,
       "code": "PSV-085",
       "rarity": "Common",
@@ -629,12 +605,6 @@
       "id": 11761845,
       "code": "PSV-103",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61740673,
-      "code": "PSV-104",
-      "rarity": "Secret Rare",
       "image_index": 0
     }
   ]

@@ -11,12 +11,6 @@
       "image_index": 0
     },
     {
-      "id": 34124316,
-      "code": "BP01-002",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 77585513,
       "code": "BP01-003",
       "rarity": "Rare",
@@ -191,20 +185,8 @@
       "image_index": 0
     },
     {
-      "id": 12580477,
-      "code": "BP01-032",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 72302403,
       "code": "BP01-033",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55144522,
-      "code": "BP01-034",
       "rarity": "Rare",
       "image_index": 0
     },
@@ -213,36 +195,6 @@
       "code": "BP01-035",
       "rarity": "Rare",
       "image_index": 1
-    },
-    {
-      "id": 79571449,
-      "code": "BP01-036",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4031928,
-      "code": "BP01-037",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19613556,
-      "code": "BP01-038",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 45986603,
-      "code": "BP01-039",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 70828912,
-      "code": "BP01-040",
-      "rarity": "Rare",
-      "image_index": 0
     },
     {
       "id": 68005187,
@@ -277,12 +229,6 @@
     {
       "id": 98645731,
       "code": "BP01-046",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41420027,
-      "code": "BP01-047",
       "rarity": "Rare",
       "image_index": 0
     },

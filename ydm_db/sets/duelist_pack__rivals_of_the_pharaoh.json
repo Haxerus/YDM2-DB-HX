@@ -230,12 +230,6 @@
       "image_index": 0
     },
     {
-      "id": 26202165,
-      "code": "DPRP-038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 28297833,
       "code": "DPRP-039",
       "rarity": "Common",
@@ -275,12 +269,6 @@
       "id": 30170981,
       "code": "DPRP-045",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 63519819,
-      "code": "DPRP-046",
-      "rarity": "Rare",
       "image_index": 0
     }
   ]

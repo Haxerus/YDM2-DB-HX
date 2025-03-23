@@ -43,12 +43,6 @@
       "image_index": 0
     },
     {
-      "id": 33508719,
-      "code": "SDRL-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 17444133,
       "code": "SDRL-008",
       "rarity": "Common",
@@ -145,20 +139,8 @@
       "image_index": 0
     },
     {
-      "id": 42703248,
-      "code": "SDRL-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 43434803,
       "code": "SDRL-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 70828912,
-      "code": "SDRL-024",
       "rarity": "Common",
       "image_index": 0
     },
@@ -189,12 +171,6 @@
     {
       "id": 69162969,
       "code": "SDRL-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 87910978,
-      "code": "SDRL-030",
       "rarity": "Common",
       "image_index": 0
     },

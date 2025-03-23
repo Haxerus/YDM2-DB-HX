@@ -8,12 +8,6 @@
   "distribution": "ots_tournament_pack",
   "cards": [
     {
-      "id": 40044918,
-      "code": "OP09-001",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
       "id": 35199656,
       "code": "OP09-002",
       "rarity": "Ultimate Rare",
@@ -23,12 +17,6 @@
       "id": 90673288,
       "code": "OP09-003",
       "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 33508719,
-      "code": "OP09-004",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -46,12 +34,6 @@
     {
       "id": 34989413,
       "code": "OP09-007",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "OP09-008",
       "rarity": "Super Rare",
       "image_index": 0
     },
@@ -136,12 +118,6 @@
     {
       "id": 74335036,
       "code": "OP09-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 61740673,
-      "code": "OP09-023",
       "rarity": "Common",
       "image_index": 0
     },

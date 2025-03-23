@@ -1,5 +1,5 @@
 {
-  "name": "Battles of Legend: Light\u0027s Revenge",
+  "name": "Battles of Legend: Light's Revenge",
   "code": "BLLR",
   "type": "60 Card Set",
   "date": "06-07-2017",
@@ -359,12 +359,6 @@
       "id": 34116027,
       "code": "BLLR-059",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 52687916,
-      "code": "BLLR-060",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {

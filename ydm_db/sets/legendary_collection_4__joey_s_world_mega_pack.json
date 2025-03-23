@@ -1,5 +1,5 @@
 {
-  "name": "Legendary Collection 4: Joey\u0027s World Mega Pack",
+  "name": "Legendary Collection 4: Joey's World Mega Pack",
   "code": "LCJW",
   "type": "Mega Pack",
   "date": "11-10-2013",
@@ -200,12 +200,6 @@
       "image_index": 0
     },
     {
-      "id": 78706415,
-      "code": "LCJW-033",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 16222645,
       "code": "LCJW-034",
       "rarity": "Common",
@@ -344,12 +338,6 @@
       "image_index": 0
     },
     {
-      "id": 12580477,
-      "code": "LCJW-057",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 46130346,
       "code": "LCJW-058",
       "rarity": "Common",
@@ -368,26 +356,8 @@
       "image_index": 0
     },
     {
-      "id": 55144522,
-      "code": "LCJW-061",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 32268901,
       "code": "LCJW-062",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42703248,
-      "code": "LCJW-063",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 70828912,
-      "code": "LCJW-064",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1094,12 +1064,6 @@
       "image_index": 0
     },
     {
-      "id": 41420027,
-      "code": "LCJW-182",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 66672569,
       "code": "LCJW-183",
       "rarity": "Common",
@@ -1640,12 +1604,6 @@
       "image_index": 0
     },
     {
-      "id": 3280747,
-      "code": "LCJW-273",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 62325062,
       "code": "LCJW-274",
       "rarity": "Common",
@@ -1706,12 +1664,6 @@
       "image_index": 0
     },
     {
-      "id": 19613556,
-      "code": "LCJW-284",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 5318639,
       "code": "LCJW-285",
       "rarity": "Secret Rare",
@@ -1724,12 +1676,6 @@
       "image_index": 0
     },
     {
-      "id": 27770341,
-      "code": "LCJW-287",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
       "id": 14087893,
       "code": "LCJW-288",
       "rarity": "Secret Rare",
@@ -1739,12 +1685,6 @@
       "id": 60764581,
       "code": "LCJW-289",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 67169062,
-      "code": "LCJW-290",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {

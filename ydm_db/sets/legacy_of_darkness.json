@@ -8,12 +8,6 @@
   "distribution": "booster_pack_old",
   "cards": [
     {
-      "id": 3078576,
-      "code": "LOD-000",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 53982768,
       "code": "LOD-001",
       "rarity": "Ultra Rare",
@@ -290,12 +284,6 @@
       "image_index": 0
     },
     {
-      "id": 27770341,
-      "code": "LOD-047",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 54178050,
       "code": "LOD-048",
       "rarity": "Common",
@@ -341,12 +329,6 @@
       "id": 38916461,
       "code": "LOD-055",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78706415,
-      "code": "LOD-056",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -554,12 +536,6 @@
       "image_index": 0
     },
     {
-      "id": 93016201,
-      "code": "LOD-091",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 29401950,
       "code": "LOD-092",
       "rarity": "Rare",
@@ -600,12 +576,6 @@
       "code": "LOD-098",
       "rarity": "Common",
       "image_index": 1
-    },
-    {
-      "id": 28566710,
-      "code": "LOD-099",
-      "rarity": "Ultra Rare",
-      "image_index": 0
     },
     {
       "id": 79575620,

@@ -1,5 +1,5 @@
 {
-  "name": "Hidden Arsenal 4: Trishula\u0027s Triumph",
+  "name": "Hidden Arsenal 4: Trishula's Triumph",
   "code": "HA04",
   "type": "Hidden Arsenal",
   "date": "15-04-2011",
@@ -358,12 +358,6 @@
     {
       "id": 25682811,
       "code": "HA04-059",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 52687916,
-      "code": "HA04-060",
       "rarity": "Secret Rare",
       "image_index": 0
     }

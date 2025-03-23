@@ -1,3 +1,5 @@
+### This is a fork of the YDM2 Card Database for personal use
+
 # YDM2-DB
 This is the official database for the Ygo Dueling Mod for Minecraft. It contains card files, set files and distribution files (no images, just json files!). Fell free to fork this repo to make your own database.
 ## Important Notice

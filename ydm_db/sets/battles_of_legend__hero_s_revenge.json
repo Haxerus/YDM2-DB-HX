@@ -1,5 +1,5 @@
 {
-  "name": "Battles of Legend: Hero\u0027s Revenge",
+  "name": "Battles of Legend: Hero's Revenge",
   "code": "BLHR",
   "type": "60 Card Set",
   "date": "11-06-2019",
@@ -380,18 +380,6 @@
       "image_index": 0
     },
     {
-      "id": 40044918,
-      "code": "BLHR-061",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40044918,
-      "code": "BLHR-061",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 46759931,
       "code": "BLHR-062",
       "rarity": "Ultra Rare",
@@ -461,12 +449,6 @@
       "id": 64178424,
       "code": "BLHR-073",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69015963,
-      "code": "BLHR-074",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {

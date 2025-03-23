@@ -8,12 +8,6 @@
   "distribution": "gold_series",
   "cards": [
     {
-      "id": 26202165,
-      "code": "GLD2-001",
-      "rarity": "Gold Rare",
-      "image_index": 0
-    },
-    {
       "id": 81059524,
       "code": "GLD2-002",
       "rarity": "Gold Rare",
@@ -218,12 +212,6 @@
       "image_index": 0
     },
     {
-      "id": 42703248,
-      "code": "GLD2-036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 37520316,
       "code": "GLD2-037",
       "rarity": "Gold Rare",
@@ -262,12 +250,6 @@
     {
       "id": 90434926,
       "code": "GLD2-043",
-      "rarity": "Gold Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41420027,
-      "code": "GLD2-044",
       "rarity": "Gold Rare",
       "image_index": 0
     },

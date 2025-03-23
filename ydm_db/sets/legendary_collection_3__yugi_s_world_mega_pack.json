@@ -1,5 +1,5 @@
 {
-  "name": "Legendary Collection 3: Yugi\u0027s World Mega Pack",
+  "name": "Legendary Collection 3: Yugi's World Mega Pack",
   "code": "LCYW",
   "type": "Mega Pack",
   "date": "29-09-2012",
@@ -326,12 +326,6 @@
       "image_index": 0
     },
     {
-      "id": 12580477,
-      "code": "LCYW-054",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 66788016,
       "code": "LCYW-055",
       "rarity": "Super Rare",
@@ -356,24 +350,6 @@
       "image_index": 0
     },
     {
-      "id": 55144522,
-      "code": "LCYW-059",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "LCYW-060",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19613556,
-      "code": "LCYW-061",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 5318639,
       "code": "LCYW-062",
       "rarity": "Secret Rare",
@@ -383,12 +359,6 @@
       "id": 95286165,
       "code": "LCYW-063",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 79571449,
-      "code": "LCYW-064",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -443,12 +413,6 @@
       "id": 13604200,
       "code": "LCYW-073",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 87910978,
-      "code": "LCYW-074",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -722,18 +686,6 @@
       "image_index": 0
     },
     {
-      "id": 26202165,
-      "code": "LCYW-120",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 33508719,
-      "code": "LCYW-121",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 41442341,
       "code": "LCYW-122",
       "rarity": "Common",
@@ -743,12 +695,6 @@
       "id": 97642679,
       "code": "LCYW-123",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 4031928,
-      "code": "LCYW-124",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -814,12 +760,6 @@
     {
       "id": 69279219,
       "code": "LCYW-135",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69243953,
-      "code": "LCYW-136",
       "rarity": "Common",
       "image_index": 0
     },
@@ -914,12 +854,6 @@
       "image_index": 0
     },
     {
-      "id": 41420027,
-      "code": "LCYW-152",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
       "id": 77414722,
       "code": "LCYW-153",
       "rarity": "Secret Rare",
@@ -928,12 +862,6 @@
     {
       "id": 8131171,
       "code": "LCYW-154",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41482598,
-      "code": "LCYW-155",
       "rarity": "Secret Rare",
       "image_index": 0
     },
@@ -1067,12 +995,6 @@
       "id": 4206964,
       "code": "LCYW-177",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61740673,
-      "code": "LCYW-178",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "name": "Legendary Collection 5D\u0027s Mega Pack",
+  "name": "Legendary Collection 5D's Mega Pack",
   "code": "LC5D",
   "type": "Mega Pack",
   "date": "23-10-2014",
@@ -563,12 +563,6 @@
       "id": 44125452,
       "code": "LC5D-091",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 67441435,
-      "code": "LC5D-092",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -1421,12 +1415,6 @@
       "id": 70780151,
       "code": "LC5D-233",
       "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32646477,
-      "code": "LC5D-234",
-      "rarity": "Common",
       "image_index": 0
     },
     {

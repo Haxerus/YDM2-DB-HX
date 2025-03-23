@@ -109,12 +109,6 @@
       "image_index": 0
     },
     {
-      "id": 26202165,
-      "code": "SYE-018",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 40640057,
       "code": "SYE-019",
       "rarity": "Common",
@@ -181,24 +175,6 @@
       "image_index": 0
     },
     {
-      "id": 4031928,
-      "code": "SYE-030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 85602018,
-      "code": "SYE-031",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "SYE-032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 51482758,
       "code": "SYE-033",
       "rarity": "Common",
@@ -237,12 +213,6 @@
     {
       "id": 72302403,
       "code": "SYE-039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 55144522,
-      "code": "SYE-040",
       "rarity": "Common",
       "image_index": 0
     },

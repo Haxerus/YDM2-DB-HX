@@ -1,5 +1,5 @@
 {
-  "name": "Yugi\u0027s Legendary Decks",
+  "name": "Yugi's Legendary Decks",
   "code": "YGLD",
   "type": "Legendary Decks",
   "date": "12-11-2015",
@@ -159,12 +159,6 @@
     {
       "id": 25774450,
       "code": "YGLD-A25",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 87910978,
-      "code": "YGLD-A26",
       "rarity": "Common",
       "image_index": 0
     },
@@ -411,18 +405,6 @@
     {
       "id": 81510157,
       "code": "YGLD-B25",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 55144522,
-      "code": "YGLD-B26",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "YGLD-B27",
       "rarity": "Common",
       "image_index": 0
     },

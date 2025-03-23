@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Dragon\u0027s Roar",
+  "name": "Structure Deck: Dragon's Roar",
   "code": "SD1",
   "type": "Structure Deck",
   "date": "01-01-2005",
@@ -91,12 +91,6 @@
       "image_index": 0
     },
     {
-      "id": 45986603,
-      "code": "SD1-010",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 5318639,
       "code": "SD1-011",
       "rarity": "Common",
@@ -115,26 +109,8 @@
       "image_index": 0
     },
     {
-      "id": 70828912,
-      "code": "SD1-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 72302403,
       "code": "SD1-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 55144522,
-      "code": "SD1-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 19613556,
-      "code": "SD1-016",
       "rarity": "Common",
       "image_index": 0
     },

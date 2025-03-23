@@ -254,12 +254,6 @@
       "image_index": 0
     },
     {
-      "id": 26202165,
-      "code": "DB2-042",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 14141448,
       "code": "DB2-043",
       "rarity": "Common",
@@ -440,12 +434,6 @@
       "image_index": 0
     },
     {
-      "id": 41420027,
-      "code": "DB2-073",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
       "id": 77414722,
       "code": "DB2-074",
       "rarity": "Super Rare",
@@ -503,12 +491,6 @@
       "id": 56830749,
       "code": "DB2-083",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 19613556,
-      "code": "DB2-084",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -572,12 +554,6 @@
       "image_index": 0
     },
     {
-      "id": 79571449,
-      "code": "DB2-095",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 94119974,
       "code": "DB2-096",
       "rarity": "Common",
@@ -602,12 +578,6 @@
       "image_index": 0
     },
     {
-      "id": 69015963,
-      "code": "DB2-100",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 28563545,
       "code": "DB2-101",
       "rarity": "Common",
@@ -623,12 +593,6 @@
       "id": 61831093,
       "code": "DB2-103",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 33508719,
-      "code": "DB2-104",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -974,12 +938,6 @@
       "image_index": 0
     },
     {
-      "id": 27770341,
-      "code": "DB2-162",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 54178050,
       "code": "DB2-163",
       "rarity": "Common",
@@ -995,12 +953,6 @@
       "id": 17658803,
       "code": "DB2-165",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78706415,
-      "code": "DB2-166",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -1060,12 +1012,6 @@
     {
       "id": 77084837,
       "code": "DB2-176",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 3078576,
-      "code": "DB2-177",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1202,12 +1148,6 @@
       "image_index": 0
     },
     {
-      "id": 93016201,
-      "code": "DB2-200",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 29401950,
       "code": "DB2-201",
       "rarity": "Common",
@@ -1235,12 +1175,6 @@
       "id": 55773067,
       "code": "DB2-205",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28566710,
-      "code": "DB2-206",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -1400,12 +1334,6 @@
       "image_index": 0
     },
     {
-      "id": 41482598,
-      "code": "DB2-233",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 77876207,
       "code": "DB2-234",
       "rarity": "Common",
@@ -1474,12 +1402,6 @@
     {
       "id": 38299233,
       "code": "DB2-245",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 64697231,
-      "code": "DB2-246",
       "rarity": "Common",
       "image_index": 0
     },
