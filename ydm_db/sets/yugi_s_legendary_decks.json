@@ -145,12 +145,6 @@
       "image_index": 0
     },
     {
-      "id": 83764719,
-      "code": "YGLD-A23",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 72302403,
       "code": "YGLD-A24",
       "rarity": "Common",
@@ -345,12 +339,6 @@
     {
       "id": 40640057,
       "code": "YGLD-B15",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83764719,
-      "code": "YGLD-B16",
       "rarity": "Common",
       "image_index": 0
     },
@@ -633,12 +621,6 @@
     {
       "id": 40640057,
       "code": "YGLD-C23",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83764719,
-      "code": "YGLD-C24",
       "rarity": "Common",
       "image_index": 0
     },
