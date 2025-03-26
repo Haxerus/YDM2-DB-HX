@@ -5,12 +5,6 @@
   "distribution": "battle_pack__epic_dawn__1",
   "cards": [
     {
-      "id": 78010363,
-      "code": "BP01-001",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
       "id": 77585513,
       "code": "BP01-003",
       "rarity": "Rare",
